@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @agtorre3
 - 👀 I’m interested in coding 💻, baking 🍪, travelling ✈🌎, and cats 🐈.
-- 🌱 I’m currently learning Ruby, React, and AWS.
-- 🦾 I'm familiar with C#, .NET, Angular, and Microsoft Azure. I'm also familiar with SAP technologies, including SAPUI5 (an in-house framework that uses XML, HTML, JavaScript, JSON, OData, and MVC architecture to create UIs), HANA Studio, and ABAP.
+- 🌱 I’m currently learning Ruby and React.
+- 🦾 I'm familiar with C#/.NET, Angular, and Microsoft Azure. I'm also familiar with SAP technologies, including SAPUI5 (an in-house framework that uses XML, HTML, JavaScript, JSON, OData, and MVC architecture to create UIs), HANA Studio, and ABAP.
 
 <!---
 - 💞️ I’m looking to collaborate on ...
