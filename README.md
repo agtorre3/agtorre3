@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Ruby on Rails.
 - 🦾 I'm familiar with C#/.NET, Angular, and Microsoft Azure. I'm also familiar with SAP technologies, including SAPUI5, HANA Studio, and ABAP.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agtorre3)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
